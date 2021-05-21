@@ -14,71 +14,70 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Audio latency"
-msgstr ""
-
-msgctxt "#30002"
-msgid "Auto Frameskip"
-msgstr ""
-
-msgctxt "#30003"
-msgid "Block Transfer GPU"
-msgstr ""
-
-msgctxt "#30004"
-msgid "Confirmation Button"
-msgstr ""
-
-msgctxt "#30005"
-msgid "Internal Cheats Support"
-msgstr ""
-
-msgctxt "#30006"
 msgid "CPU Core"
 msgstr ""
 
-msgctxt "#30007"
-msgid "Fast Memory (Speedhack)"
-msgstr ""
-
-msgctxt "#30008"
-msgid "Frameskip"
-msgstr ""
-
-msgctxt "#30009"
-msgid "Frameskip Type"
-msgstr ""
-
-msgctxt "#30010"
-msgid "GPU Hardware T&L"
-msgstr ""
-
-msgctxt "#30011"
-msgid "Internal Resolution (restart)"
-msgstr ""
-
-msgctxt "#30012"
-msgid "IO Timing Method"
-msgstr ""
-
-msgctxt "#30013"
-msgid "Language"
-msgstr ""
-
-msgctxt "#30014"
+msgctxt "#30002"
 msgid "Locked CPU Speed"
 msgstr ""
 
-msgctxt "#30015"
+msgctxt "#30003"
+msgid "Language"
+msgstr ""
+
+msgctxt "#30004"
 msgid "Rendering Mode"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Auto Frameskip"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Frameskip"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Frameskip Type"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Audio latency"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Internal Resolution (restart)"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Confirmation Button"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Fast Memory (Speedhack)"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Block Transfer GPU"
+msgstr ""
+
+msgctxt "#30013"
+msgid "Texture Scaling Level"
+msgstr ""
+
+msgctxt "#30014"
+msgid "Texture Scaling Type"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Texture Filtering"
 msgstr ""
 
 msgctxt "#30016"
@@ -90,25 +89,25 @@ msgid "Texture Deposterize"
 msgstr ""
 
 msgctxt "#30018"
-msgid "Texture Filtering"
-msgstr ""
-
-msgctxt "#30019"
 msgid "Texture Replacement"
 msgstr ""
 
+msgctxt "#30019"
+msgid "GPU Hardware T&L"
+msgstr ""
+
 msgctxt "#30020"
-msgid "Texture Scaling Level"
+msgid "Vertex Cache (Speedhack)"
 msgstr ""
 
 msgctxt "#30021"
-msgid "Texture Scaling Type"
-msgstr ""
-
-msgctxt "#30022"
 msgid "Unsafe FuncReplacements"
 msgstr ""
 
+msgctxt "#30022"
+msgid "Internal Cheats Support"
+msgstr ""
+
 msgctxt "#30023"
-msgid "Vertex Cache (Speedhack)"
+msgid "IO Timing Method"
 msgstr ""
