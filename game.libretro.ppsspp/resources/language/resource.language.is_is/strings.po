@@ -16,6 +16,18 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
+msgctxt "Addon Summary"
+msgid "Sony - PlayStation Portable (PPSSPP)"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "PPSSPP is a fast and portable PSP emulator written in C++.
+
+Originally created by Henrik Rydgård.
+
+Supported files: .elf, .iso, .cso, .prx, .pbp"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""

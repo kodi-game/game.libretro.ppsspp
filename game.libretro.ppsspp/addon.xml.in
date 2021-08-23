@@ -15,8 +15,6 @@
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">Sony - PlayStation Portable (PPSSPP)</summary>
-		<description lang="en_GB">PPSSPP is a fast and portable PSP emulator written in C++.
 
 Originally created by Henrik Rydgård.
 
@@ -24,5 +22,11 @@ Supported files: .elf, .iso, .cso, .prx, .pbp</description>
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.ppsspp</source>
+		<summary lang="en_GB">Sony - PlayStation Portable (PPSSPP)</summary>
+		<description lang="en_GB">PPSSPP is a fast and portable PSP emulator written in C++.
+
+Originally created by Henrik Rydgård.
+
+Supported files: .elf, .iso, .cso, .prx, .pbp</description>
 	</extension>
 </addon>
