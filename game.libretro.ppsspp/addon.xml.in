@@ -19,8 +19,8 @@
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.ppsspp</source>
-		<disclaimer>Originally created by Henrik Rydgård</disclaimer>
 		<summary lang="en_GB">Sony - PlayStation Portable (PPSSPP)</summary>
 		<description lang="en_GB">PPSSPP is a fast and portable PSP emulator written in C++.</description>
+		<disclaimer lang="en_GB">Originally created by Henrik Rydgård</disclaimer>
 	</extension>
 </addon>
