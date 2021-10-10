@@ -24,6 +24,10 @@ msgctxt "Addon Description"
 msgid "PPSSPP is a fast and portable PSP emulator written in C++."
 msgstr ""
 
+msgctxt "Addon Disclaimer"
+msgid "Originally created by Henrik Rydgård"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""
