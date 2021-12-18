@@ -20,7 +20,9 @@
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.ppsspp</source>
 		<summary lang="en_GB">Sony - PlayStation Portable (PPSSPP)</summary>
+		<description lang="da_DK">PPSSPP er en hurtig og bærbar PSP-emulator skrevet i C++.</description>
 		<description lang="en_GB">PPSSPP is a fast and portable PSP emulator written in C++.</description>
+		<disclaimer lang="da_DK">Oprindeligt skabt af Henrik Rydgård</disclaimer>
 		<disclaimer lang="en_GB">Originally created by Henrik Rydgård</disclaimer>
 	</extension>
 </addon>
