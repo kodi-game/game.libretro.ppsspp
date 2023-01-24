@@ -13,7 +13,7 @@ GPLv2
 
 ### Icon
 
-![Icon](game.libretro.ppsspp/resources/icon.png)
+![Sony - PlayStation Portable (PPSSPP) icon](game.libretro.ppsspp/resources/icon.png)
 
 ### Fanart
 
