@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Originally created by Henrik Rydgård"
 msgstr "Oprindeligt skabt af Henrik Rydgård"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Indstillinger"
-
 msgctxt "#30001"
 msgid "CPU Core"
 msgstr "CPU-kerne"
@@ -124,3 +120,7 @@ msgstr "Understøttelse af interne snydekoder"
 msgctxt "#30023"
 msgid "IO Timing Method"
 msgstr "IO timingmetode"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Indstillinger"

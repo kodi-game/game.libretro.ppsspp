@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Originally created by Henrik Rydgård"
 msgstr "由 Henrik Rydgård 初始创建"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "设置"
-
 msgctxt "#30001"
 msgid "CPU Core"
 msgstr "CPU 核"
@@ -124,3 +120,7 @@ msgstr "内部作弊支持"
 msgctxt "#30023"
 msgid "IO Timing Method"
 msgstr "IO 定时方法"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "设置"

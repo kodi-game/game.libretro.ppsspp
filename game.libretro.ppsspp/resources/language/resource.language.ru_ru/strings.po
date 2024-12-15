@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Originally created by Henrik Rydgård"
 msgstr ""
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Настройки"
-
 msgctxt "#30001"
 msgid "CPU Core"
 msgstr "Ядро CPU"
@@ -124,3 +120,7 @@ msgstr ""
 msgctxt "#30023"
 msgid "IO Timing Method"
 msgstr ""
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Настройки"

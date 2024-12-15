@@ -28,10 +28,6 @@ msgctxt "Addon Disclaimer"
 msgid "Originally created by Henrik Rydgård"
 msgstr ""
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr ""
-
 msgctxt "#30001"
 msgid "CPU Core"
 msgstr ""

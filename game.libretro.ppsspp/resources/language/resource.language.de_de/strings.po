@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Originally created by Henrik Rydgård"
 msgstr "Ursprünglich erstellt von Henrik Rydgård"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Einstellungen"
-
 msgctxt "#30001"
 msgid "CPU Core"
 msgstr "CPU-Kern"
@@ -124,3 +120,7 @@ msgstr "Unterstützung für interne Cheats"
 msgctxt "#30023"
 msgid "IO Timing Method"
 msgstr "I/O-Timing-Methode"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Einstellungen"
