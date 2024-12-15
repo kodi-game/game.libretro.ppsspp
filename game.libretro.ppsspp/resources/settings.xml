@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
-	<category label="30000">
+	<category label="128">
 		<setting label="30001" type="select" id="ppsspp_cpu_core" values="jit|IR jit|interpreter" default="jit"/>
 		<setting label="30002" type="select" id="ppsspp_locked_cpu_speed" values="off|222MHz|266MHz|333MHz" default="off"/>
 		<setting label="30003" type="select" id="ppsspp_language" values="automatic|english|japanese|french|spanish|german|italian|dutch|portuguese|russian|korean|chinese_traditional|chinese_simplified" default="automatic"/>
