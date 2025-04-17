@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.ppsspp\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2014-05-30 17:00+8\n"
-"PO-Revision-Date: 2025-04-11 09:05+0000\n"
+"PO-Revision-Date: 2025-04-17 04:26+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-ppsspp/sv_se/>\n"
 "Language: sv_se\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11\n"
 
 msgctxt "Addon Summary"
 msgid "Sony - PlayStation Portable (PPSSPP)"
@@ -35,91 +35,102 @@ msgstr "CPU-kärna"
 
 msgctxt "#30002"
 msgid "Locked CPU Speed"
-msgstr ""
+msgstr "Låst CPU-hastighet"
 
 msgctxt "#30003"
 msgid "Language"
-msgstr ""
+msgstr "Språk"
 
 msgctxt "#30004"
 msgid "Rendering Mode"
-msgstr ""
+msgstr "Renderingsläge"
 
+#, fuzzy
 msgctxt "#30005"
 msgid "Auto Frameskip"
-msgstr ""
+msgstr "AUTO HOPPA ÖVER BILDER"
 
 msgctxt "#30006"
 msgid "Frameskip"
-msgstr ""
+msgstr "Hoppa över bildrutor"
 
+#, fuzzy
 msgctxt "#30007"
 msgid "Frameskip Type"
-msgstr ""
+msgstr "TYP FÖR HOPPA ÖVER BILDRUTOR"
 
 msgctxt "#30008"
 msgid "Audio latency"
-msgstr ""
+msgstr "Ljudlatens"
 
 msgctxt "#30009"
 msgid "Internal Resolution (restart)"
-msgstr ""
+msgstr "Intern upplösning (omstart)"
 
+#, fuzzy
 msgctxt "#30010"
 msgid "Confirmation Button"
-msgstr ""
+msgstr "Bekräftelseknapp"
 
+#, fuzzy
 msgctxt "#30011"
 msgid "Fast Memory (Speedhack)"
-msgstr ""
+msgstr "Snabbt minne (Speedhack)"
 
 msgctxt "#30012"
 msgid "Block Transfer GPU"
-msgstr ""
+msgstr "Blocköverföring GPU"
 
+#, fuzzy
 msgctxt "#30013"
 msgid "Texture Scaling Level"
-msgstr ""
+msgstr "Nivå för skalning av textur"
 
+#, fuzzy
 msgctxt "#30014"
 msgid "Texture Scaling Type"
-msgstr ""
+msgstr "Typ av skalning av textur"
 
 msgctxt "#30015"
 msgid "Texture Filtering"
-msgstr ""
+msgstr "Texturfiltrering"
 
 msgctxt "#30016"
 msgid "Anisotropic Filtering"
-msgstr ""
+msgstr "Anisotropisk filtrering"
 
+#, fuzzy
 msgctxt "#30017"
 msgid "Texture Deposterize"
-msgstr ""
+msgstr "Textur Deposterize"
 
 msgctxt "#30018"
 msgid "Texture Replacement"
-msgstr ""
+msgstr "Ersättning av textur"
 
+#, fuzzy
 msgctxt "#30019"
 msgid "GPU Hardware T&L"
-msgstr ""
+msgstr "GPU hårdvara T&L"
 
+#, fuzzy
 msgctxt "#30020"
 msgid "Vertex Cache (Speedhack)"
-msgstr ""
+msgstr "Vertex-cache (Speedhack)"
 
+#, fuzzy
 msgctxt "#30021"
 msgid "Unsafe FuncReplacements"
-msgstr ""
+msgstr "Osäkra FuncReplacements"
 
 msgctxt "#30022"
 msgid "Internal Cheats Support"
-msgstr ""
+msgstr "Internt stöd för fusk"
 
+#, fuzzy
 msgctxt "#30023"
 msgid "IO Timing Method"
-msgstr ""
+msgstr "Metod för IO-tidtagning"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
