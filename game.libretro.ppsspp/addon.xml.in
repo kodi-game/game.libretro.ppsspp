@@ -28,6 +28,7 @@
 		<description lang="en_GB">PPSSPP is a fast and portable PSP emulator written in C++.</description>
 		<description lang="es_ES">PPSSPP es un emulador de PSP rápido y portátil escrito en C++.</description>
 		<description lang="ga">Is aithriseoir PSP gasta agus iniompartha é PPSSPP atá scríofa i C++.</description>
+		<description lang="ru_RU">PPSSPP — это быстрый и переносимый эмулятор PSP, написанный на C++.</description>
 		<description lang="sv_SE">PPSSPP är en snabb och portabel PSP-emulator skriven i C++.</description>
 		<description lang="zh_CN">PPSSPP 是用 C++ 编写的快速便携式 PSP 模拟器。</description>
 		<disclaimer lang="da_DK">Oprindeligt skabt af Henrik Rydgård</disclaimer>
@@ -35,6 +36,7 @@
 		<disclaimer lang="en_GB">Originally created by Henrik Rydgård</disclaimer>
 		<disclaimer lang="es_ES">Creado originalmente por Henrik Rydgård</disclaimer>
 		<disclaimer lang="ga">Cruthaithe ar dtús ag Henrik Rydgård</disclaimer>
+		<disclaimer lang="ru_RU">Изначально создан Хенриком Рюдгордом</disclaimer>
 		<disclaimer lang="sv_SE">Ursprungligen skapat av Henrik Rydgård</disclaimer>
 		<disclaimer lang="zh_CN">由 Henrik Rydgård 初始创建</disclaimer>
 	</extension>
