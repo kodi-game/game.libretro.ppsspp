@@ -23,6 +23,7 @@
 			<icon>resources/icon.png</icon>
 		</assets>
 		<summary lang="en_GB">Sony - PlayStation Portable (PPSSPP)</summary>
+		<description lang="cs_CZ">PPSSPP je rychlý a přenositelný emulátor PSP napsaný v C++.</description>
 		<description lang="da_DK">PPSSPP er en hurtig og bærbar PSP-emulator skrevet i C++.</description>
 		<description lang="de_DE">PPSSPP ist ein schneller und portabler PSP-Emulator, geschrieben in C++.</description>
 		<description lang="en_GB">PPSSPP is a fast and portable PSP emulator written in C++.</description>
@@ -31,6 +32,7 @@
 		<description lang="ru_RU">PPSSPP — это быстрый и переносимый эмулятор PSP, написанный на C++.</description>
 		<description lang="sv_SE">PPSSPP är en snabb och portabel PSP-emulator skriven i C++.</description>
 		<description lang="zh_CN">PPSSPP 是用 C++ 编写的快速便携式 PSP 模拟器。</description>
+		<disclaimer lang="cs_CZ">Původně vytvořil Henrik Rydgård</disclaimer>
 		<disclaimer lang="da_DK">Oprindeligt skabt af Henrik Rydgård</disclaimer>
 		<disclaimer lang="de_DE">Ursprünglich erstellt von Henrik Rydgård</disclaimer>
 		<disclaimer lang="en_GB">Originally created by Henrik Rydgård</disclaimer>
