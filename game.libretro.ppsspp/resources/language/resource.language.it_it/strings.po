@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.ppsspp\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2014-05-30 17:00+8\n"
-"PO-Revision-Date: 2026-08-15 23:33+0000\n"
+"PO-Revision-Date: 2026-08-22 00:08+0000\n"
 "Last-Translator: Massimo Pissarello <mapi68@gmail.com>\n"
 "Language-Team: Italian <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-ppsspp/it_it/>\n"
 "Language: it_it\n"
@@ -35,7 +35,7 @@ msgstr "Core CPU"
 
 msgctxt "#30002"
 msgid "Locked CPU Speed"
-msgstr ""
+msgstr "Velocità CPU bloccata"
 
 msgctxt "#30003"
 msgid "Language"
@@ -43,11 +43,11 @@ msgstr "Lingua"
 
 msgctxt "#30004"
 msgid "Rendering Mode"
-msgstr ""
+msgstr "Modalità di rendering"
 
 msgctxt "#30005"
 msgid "Auto Frameskip"
-msgstr ""
+msgstr "Salto fotogrammi automatico"
 
 msgctxt "#30006"
 msgid "Frameskip"
@@ -55,11 +55,11 @@ msgstr "Salto fotogrammi"
 
 msgctxt "#30007"
 msgid "Frameskip Type"
-msgstr ""
+msgstr "Tipo di salto fotogrammi"
 
 msgctxt "#30008"
 msgid "Audio latency"
-msgstr ""
+msgstr "Latenza audio"
 
 msgctxt "#30009"
 msgid "Internal Resolution (restart)"
@@ -67,23 +67,23 @@ msgstr "Risoluzione interna (richiede riavvio)"
 
 msgctxt "#30010"
 msgid "Confirmation Button"
-msgstr ""
+msgstr "Pulsante di conferma"
 
 msgctxt "#30011"
 msgid "Fast Memory (Speedhack)"
-msgstr ""
+msgstr "Memoria rapida (speedhack)"
 
 msgctxt "#30012"
 msgid "Block Transfer GPU"
-msgstr ""
+msgstr "Trasferimento a blocchi GPU"
 
 msgctxt "#30013"
 msgid "Texture Scaling Level"
-msgstr ""
+msgstr "Livello ridimensionamento texture"
 
 msgctxt "#30014"
 msgid "Texture Scaling Type"
-msgstr ""
+msgstr "Tipo di ridimensionamento texture"
 
 msgctxt "#30015"
 msgid "Texture Filtering"
@@ -91,35 +91,35 @@ msgstr "Filtro texture"
 
 msgctxt "#30016"
 msgid "Anisotropic Filtering"
-msgstr ""
+msgstr "Filtro anisotropico"
 
 msgctxt "#30017"
 msgid "Texture Deposterize"
-msgstr ""
+msgstr "Deposterizzazione texture"
 
 msgctxt "#30018"
 msgid "Texture Replacement"
-msgstr ""
+msgstr "Sostituzione texture"
 
 msgctxt "#30019"
 msgid "GPU Hardware T&L"
-msgstr ""
+msgstr "T&L hardware GPU"
 
 msgctxt "#30020"
 msgid "Vertex Cache (Speedhack)"
-msgstr ""
+msgstr "Cache vertici (speedhack)"
 
 msgctxt "#30021"
 msgid "Unsafe FuncReplacements"
-msgstr ""
+msgstr "Sostituzioni funzioni non sicure"
 
 msgctxt "#30022"
 msgid "Internal Cheats Support"
-msgstr ""
+msgstr "Supporto trucchi interno"
 
 msgctxt "#30023"
 msgid "IO Timing Method"
-msgstr ""
+msgstr "Metodo di temporizzazione I/O"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
