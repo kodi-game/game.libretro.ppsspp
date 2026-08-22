@@ -37,14 +37,6 @@ msgctxt "#30002"
 msgid "Locked CPU Speed"
 msgstr "Velocidad fija de CPU"
 
-msgctxt "#30003"
-msgid "Language"
-msgstr "Idioma"
-
-msgctxt "#30004"
-msgid "Rendering Mode"
-msgstr "Modo de renderización"
-
 msgctxt "#30005"
 msgid "Auto Frameskip"
 msgstr "Salto de cuadro automático"
@@ -57,33 +49,9 @@ msgctxt "#30007"
 msgid "Frameskip Type"
 msgstr "Tipo de salto de cuadro"
 
-msgctxt "#30008"
-msgid "Audio latency"
-msgstr "Latencia de audio"
-
-msgctxt "#30009"
-msgid "Internal Resolution (restart)"
-msgstr "Resolución interna (reiniciar)"
-
 msgctxt "#30010"
 msgid "Confirmation Button"
 msgstr "Botón de confirmación"
-
-msgctxt "#30011"
-msgid "Fast Memory (Speedhack)"
-msgstr "Memoria rápida (hack de velocidad)"
-
-msgctxt "#30012"
-msgid "Block Transfer GPU"
-msgstr "Bloquear transferencia de GPU"
-
-msgctxt "#30013"
-msgid "Texture Scaling Level"
-msgstr "Nivel de escala de textura"
-
-msgctxt "#30014"
-msgid "Texture Scaling Type"
-msgstr "Tipo de escala de textura"
 
 msgctxt "#30015"
 msgid "Texture Filtering"
@@ -101,25 +69,597 @@ msgctxt "#30018"
 msgid "Texture Replacement"
 msgstr "Reemplazo de textura"
 
-msgctxt "#30019"
-msgid "GPU Hardware T&L"
-msgstr "Hardware de GPU T&L"
-
-msgctxt "#30020"
-msgid "Vertex Cache (Speedhack)"
-msgstr "Caché de vertex (hack de velocidad)"
-
-msgctxt "#30021"
-msgid "Unsafe FuncReplacements"
-msgstr "FuncReplacements no seguros"
-
 msgctxt "#30022"
 msgid "Internal Cheats Support"
 msgstr "Soporte interno de trucos"
 
-msgctxt "#30023"
-msgid "IO Timing Method"
-msgstr "Método de sincronización de ES"
+msgctxt "#30024"
+msgid "System"
+msgstr ""
+
+msgctxt "#30025"
+msgid "Configure system options."
+msgstr ""
+
+msgctxt "#30026"
+msgid "Dynarec (JIT)"
+msgstr ""
+
+msgctxt "#30027"
+msgid "IR Interpreter"
+msgstr ""
+
+msgctxt "#30028"
+msgid "Fast Memory"
+msgstr ""
+
+msgctxt "#30029"
+msgid "Unstable."
+msgstr ""
+
+msgctxt "#30030"
+msgid "Ignore Bad Memory Accesses"
+msgstr ""
+
+msgctxt "#30031"
+msgid "I/O Timing Method"
+msgstr ""
+
+msgctxt "#30032"
+msgid "Force Real Clock Sync"
+msgstr ""
+
+msgctxt "#30033"
+msgid "Slower, less lag."
+msgstr ""
+
+msgctxt "#30034"
+msgid "Memory Stick Inserted"
+msgstr ""
+
+msgctxt "#30035"
+msgid "Some games require ejecting/inserting the Memory Stick."
+msgstr ""
+
+msgctxt "#30036"
+msgid "Cache Full ISO in RAM"
+msgstr ""
+
+msgctxt "#30037"
+msgid "Game Language"
+msgstr ""
+
+msgctxt "#30038"
+msgid "'Automatic' will use the frontend language."
+msgstr ""
+
+msgctxt "#30039"
+msgid "PSP Model"
+msgstr ""
+
+msgctxt "#30040"
+msgid "PSP-1000"
+msgstr ""
+
+msgctxt "#30041"
+msgid "PSP-2000/3000"
+msgstr ""
+
+msgctxt "#30042"
+msgid "Video"
+msgstr ""
+
+msgctxt "#30043"
+msgid "Configure video options."
+msgstr ""
+
+msgctxt "#30044"
+msgid "Backend"
+msgstr ""
+
+msgctxt "#30045"
+msgid "'Automatic' will use the frontend video driver. Core restart required."
+msgstr ""
+
+msgctxt "#30046"
+msgid "Automatic"
+msgstr ""
+
+msgctxt "#30047"
+msgid "OpenGL"
+msgstr ""
+
+msgctxt "#30048"
+msgid "Vulkan"
+msgstr ""
+
+msgctxt "#30049"
+msgid "None"
+msgstr ""
+
+msgctxt "#30050"
+msgid "Software Rendering"
+msgstr ""
+
+msgctxt "#30051"
+msgid "Slow, accurate. Core restart required."
+msgstr ""
+
+msgctxt "#30052"
+msgid "Rendering Resolution"
+msgstr ""
+
+msgctxt "#30053"
+msgid "Core restart required with Vulkan."
+msgstr ""
+
+msgctxt "#30054"
+msgid "1x (480x272)"
+msgstr ""
+
+msgctxt "#30055"
+msgid "2x (960x544)"
+msgstr ""
+
+msgctxt "#30056"
+msgid "3x (1440x816)"
+msgstr ""
+
+msgctxt "#30057"
+msgid "4x (1920x1088)"
+msgstr ""
+
+msgctxt "#30058"
+msgid "5x (2400x1360)"
+msgstr ""
+
+msgctxt "#30059"
+msgid "6x (2880x1632)"
+msgstr ""
+
+msgctxt "#30060"
+msgid "7x (3360x1904)"
+msgstr ""
+
+msgctxt "#30061"
+msgid "8x (3840x2176)"
+msgstr ""
+
+msgctxt "#30062"
+msgid "9x (4320x2448)"
+msgstr ""
+
+msgctxt "#30063"
+msgid "10x (4800x2720)"
+msgstr ""
+
+msgctxt "#30064"
+msgid "MSAA Antialiasing"
+msgstr ""
+
+msgctxt "#30065"
+msgid "Vulkan only. Core restart required."
+msgstr ""
+
+msgctxt "#30066"
+msgid "Crop to 16x9"
+msgstr ""
+
+msgctxt "#30067"
+msgid "Remove one line from top and bottom to get exact 16:9. Core restart required with Vulkan."
+msgstr ""
+
+msgctxt "#30068"
+msgid "Render Duplicate Frames to 60 Hz"
+msgstr ""
+
+msgctxt "#30069"
+msgid "Can make framerate smoother in games that run at lower framerates."
+msgstr ""
+
+msgctxt "#30070"
+msgid "Detect Frame Rate Changes"
+msgstr ""
+
+msgctxt "#30071"
+msgid "Notify frontend."
+msgstr ""
+
+msgctxt "#30072"
+msgid "Buffer Graphics Commands"
+msgstr ""
+
+msgctxt "#30073"
+msgid "GL/Vulkan only, slower, less lag, restart."
+msgstr ""
+
+msgctxt "#30074"
+msgid "Hardware Transform"
+msgstr ""
+
+msgctxt "#30075"
+msgid "Software Skinning"
+msgstr ""
+
+msgctxt "#30076"
+msgid "Combine skinned model draws on the CPU, faster in most games."
+msgstr ""
+
+msgctxt "#30077"
+msgid "Hardware Tesselation"
+msgstr ""
+
+msgctxt "#30078"
+msgid "Uses hardware to make curves."
+msgstr ""
+
+msgctxt "#30079"
+msgid "Texture Upscale Type"
+msgstr ""
+
+msgctxt "#30080"
+msgid "xBRZ"
+msgstr ""
+
+msgctxt "#30081"
+msgid "Hybrid"
+msgstr ""
+
+msgctxt "#30082"
+msgid "Bicubic"
+msgstr ""
+
+msgctxt "#30083"
+msgid "Hybrid + Bicubic"
+msgstr ""
+
+msgctxt "#30084"
+msgid "Texture Upscaling Level"
+msgstr ""
+
+msgctxt "#30085"
+msgid "CPU heavy, some scaling may be delayed to avoid stutter."
+msgstr ""
+
+msgctxt "#30086"
+msgid "Fixes visual banding glitches in upscaled textures."
+msgstr ""
+
+msgctxt "#30087"
+msgid "Texture Shader"
+msgstr ""
+
+msgctxt "#30088"
+msgid "Vulkan only, overrides 'Texture Scaling Type'."
+msgstr ""
+
+msgctxt "#30089"
+msgid "Tex2xBRZ"
+msgstr ""
+
+msgctxt "#30090"
+msgid "Tex4xBRZ"
+msgstr ""
+
+msgctxt "#30091"
+msgid "TexMMPX"
+msgstr ""
+
+msgctxt "#30092"
+msgid "Smart 2D Texture Filtering"
+msgstr ""
+
+msgctxt "#30093"
+msgid "Gets rid of some visual artifacts caused by unnecessary texture filtering in some 2D games, by switching to nearest filtering."
+msgstr ""
+
+msgctxt "#30094"
+msgid "Input"
+msgstr ""
+
+msgctxt "#30095"
+msgid "Configure input options."
+msgstr ""
+
+msgctxt "#30096"
+msgid "Analog Circle vs Square Gate Compensation"
+msgstr ""
+
+msgctxt "#30097"
+msgid "Analog Deadzone"
+msgstr ""
+
+msgctxt "#30098"
+msgid "Additional deadzone to apply after frontend input."
+msgstr ""
+
+msgctxt "#30099"
+msgid "0%"
+msgstr ""
+
+msgctxt "#30100"
+msgid "5%"
+msgstr ""
+
+msgctxt "#30101"
+msgid "10%"
+msgstr ""
+
+msgctxt "#30102"
+msgid "15%"
+msgstr ""
+
+msgctxt "#30103"
+msgid "20%"
+msgstr ""
+
+msgctxt "#30104"
+msgid "25%"
+msgstr ""
+
+msgctxt "#30105"
+msgid "30%"
+msgstr ""
+
+msgctxt "#30106"
+msgid "35%"
+msgstr ""
+
+msgctxt "#30107"
+msgid "40%"
+msgstr ""
+
+msgctxt "#30108"
+msgid "45%"
+msgstr ""
+
+msgctxt "#30109"
+msgid "50%"
+msgstr ""
+
+msgctxt "#30110"
+msgid "Analog Axis Scale"
+msgstr ""
+
+msgctxt "#30111"
+msgid "Additional sensitivity factor to apply after frontend input."
+msgstr ""
+
+msgctxt "#30112"
+msgid "Hacks"
+msgstr ""
+
+msgctxt "#30113"
+msgid "Configure speed and emulation hacks. Can cause rendering errors!"
+msgstr ""
+
+msgctxt "#30114"
+msgid "Skip Buffer Effects"
+msgstr ""
+
+msgctxt "#30115"
+msgid "Faster, but nothing may draw in some games."
+msgstr ""
+
+msgctxt "#30116"
+msgid "Skip GPU Readbacks"
+msgstr ""
+
+msgctxt "#30117"
+msgid "Some games require GPU readbacks, so be careful."
+msgstr ""
+
+msgctxt "#30118"
+msgid "Lazy Texture Caching (Speedup)"
+msgstr ""
+
+msgctxt "#30119"
+msgid "Faster, but can cause text problems in a few games."
+msgstr ""
+
+msgctxt "#30120"
+msgid "Spline/Bezier Curves Quality"
+msgstr ""
+
+msgctxt "#30121"
+msgid "Only used by some games, controls smoothness of curves."
+msgstr ""
+
+msgctxt "#30122"
+msgid "Lower Resolution for Effects"
+msgstr ""
+
+msgctxt "#30123"
+msgid "Reduces artifacts."
+msgstr ""
+
+msgctxt "#30124"
+msgid "Network"
+msgstr ""
+
+msgctxt "#30125"
+msgid "Configure network options."
+msgstr ""
+
+msgctxt "#30126"
+msgid "Enable Networking/WLAN (Beta, may break games)"
+msgstr ""
+
+msgctxt "#30127"
+msgid "MAC Address Pt  1: x-:--:--:--:--:--"
+msgstr ""
+
+msgctxt "#30128"
+msgid "MAC Address Pt  2: -x:--:--:--:--:--"
+msgstr ""
+
+msgctxt "#30129"
+msgid "MAC Address Pt  3: --:x-:--:--:--:--"
+msgstr ""
+
+msgctxt "#30130"
+msgid "MAC Address Pt  4: --:-x:--:--:--:--"
+msgstr ""
+
+msgctxt "#30131"
+msgid "MAC Address Pt  5: --:--:x-:--:--:--"
+msgstr ""
+
+msgctxt "#30132"
+msgid "MAC Address Pt  6: --:--:-x:--:--:--"
+msgstr ""
+
+msgctxt "#30133"
+msgid "MAC Address Pt  7: --:--:--:x-:--:--"
+msgstr ""
+
+msgctxt "#30134"
+msgid "MAC Address Pt  8: --:--:--:-x:--:--"
+msgstr ""
+
+msgctxt "#30135"
+msgid "MAC Address Pt  9: --:--:--:--:x-:--"
+msgstr ""
+
+msgctxt "#30136"
+msgid "MAC Address Pt 10: --:--:--:--:-x:--"
+msgstr ""
+
+msgctxt "#30137"
+msgid "MAC Address Pt 11: --:--:--:--:--:x-"
+msgstr ""
+
+msgctxt "#30138"
+msgid "MAC Address Pt 12: --:--:--:--:--:-x"
+msgstr ""
+
+msgctxt "#30139"
+msgid "WLAN Channel"
+msgstr ""
+
+msgctxt "#30140"
+msgid "Enable Built-in PRO Ad Hoc Server"
+msgstr ""
+
+msgctxt "#30141"
+msgid "Change PRO Ad Hoc Server IP Address ('localhost' = multiple instances)"
+msgstr ""
+
+msgctxt "#30142"
+msgid "PRO Ad Hoc Server IP Address Pt  1: x--.---.---.---"
+msgstr ""
+
+msgctxt "#30143"
+msgid "PRO Ad Hoc Server IP Address Pt  2: -x-.---.---.---"
+msgstr ""
+
+msgctxt "#30144"
+msgid "PRO Ad Hoc Server IP Address Pt  3: --x.---.---.---"
+msgstr ""
+
+msgctxt "#30145"
+msgid "PRO Ad Hoc Server IP Address Pt  4: ---.x--.---.---"
+msgstr ""
+
+msgctxt "#30146"
+msgid "PRO Ad Hoc Server IP Address Pt  5: ---.-x-.---.---"
+msgstr ""
+
+msgctxt "#30147"
+msgid "PRO Ad Hoc Server IP Address Pt  6: ---.--x.---.---"
+msgstr ""
+
+msgctxt "#30148"
+msgid "PRO Ad Hoc Server IP Address Pt  7: ---.---.x--.---"
+msgstr ""
+
+msgctxt "#30149"
+msgid "PRO Ad Hoc Server IP Address Pt  8: ---.---.-x-.---"
+msgstr ""
+
+msgctxt "#30150"
+msgid "PRO Ad Hoc Server IP Address Pt  9: ---.---.--x.---"
+msgstr ""
+
+msgctxt "#30151"
+msgid "PRO Ad Hoc Server IP Address Pt 10: ---.---.---.x--"
+msgstr ""
+
+msgctxt "#30152"
+msgid "PRO Ad Hoc Server IP Address Pt 11: ---.---.---.-x-"
+msgstr ""
+
+msgctxt "#30153"
+msgid "PRO Ad Hoc Server IP Address Pt 12: ---.---.---.--x"
+msgstr ""
+
+msgctxt "#30154"
+msgid "Enable UPnP (Need a few seconds to detect)"
+msgstr ""
+
+msgctxt "#30155"
+msgid "UPnP Use Original Port ('ON' = PSP compatibility)"
+msgstr ""
+
+msgctxt "#30156"
+msgid "Port Offset ('0' = PSP compatibility)"
+msgstr ""
+
+msgctxt "#30157"
+msgid "Minimum Timeout (Override in ms, '0' = default)"
+msgstr ""
+
+msgctxt "#30158"
+msgid "Forced First Connect (Faster connect)"
+msgstr ""
+
+#~ msgctxt "#30003"
+#~ msgid "Language"
+#~ msgstr "Idioma"
+
+#~ msgctxt "#30004"
+#~ msgid "Rendering Mode"
+#~ msgstr "Modo de renderización"
+
+#~ msgctxt "#30008"
+#~ msgid "Audio latency"
+#~ msgstr "Latencia de audio"
+
+#~ msgctxt "#30009"
+#~ msgid "Internal Resolution (restart)"
+#~ msgstr "Resolución interna (reiniciar)"
+
+#~ msgctxt "#30011"
+#~ msgid "Fast Memory (Speedhack)"
+#~ msgstr "Memoria rápida (hack de velocidad)"
+
+#~ msgctxt "#30012"
+#~ msgid "Block Transfer GPU"
+#~ msgstr "Bloquear transferencia de GPU"
+
+#~ msgctxt "#30013"
+#~ msgid "Texture Scaling Level"
+#~ msgstr "Nivel de escala de textura"
+
+#~ msgctxt "#30014"
+#~ msgid "Texture Scaling Type"
+#~ msgstr "Tipo de escala de textura"
+
+#~ msgctxt "#30019"
+#~ msgid "GPU Hardware T&L"
+#~ msgstr "Hardware de GPU T&L"
+
+#~ msgctxt "#30020"
+#~ msgid "Vertex Cache (Speedhack)"
+#~ msgstr "Caché de vertex (hack de velocidad)"
+
+#~ msgctxt "#30021"
+#~ msgid "Unsafe FuncReplacements"
+#~ msgstr "FuncReplacements no seguros"
+
+#~ msgctxt "#30023"
+#~ msgid "IO Timing Method"
+#~ msgstr "Método de sincronización de ES"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
