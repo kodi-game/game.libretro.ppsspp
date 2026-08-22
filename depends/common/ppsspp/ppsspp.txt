@@ -1,1 +1,1 @@
-ppsspp https://github.com/libretro/ppsspp/archive/7b4ddb426bbe9e287bb7f19b0cfaebb4ea0d41d8.tar.gz
+ppsspp https://github.com/hrydgard/ppsspp/archive/c09e6bddaace3a9f6dfeb48f52a9eef9ae221751.tar.gz
