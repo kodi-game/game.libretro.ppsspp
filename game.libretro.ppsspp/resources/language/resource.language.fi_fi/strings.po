@@ -37,6 +37,10 @@ msgctxt "#30002"
 msgid "Locked CPU Speed"
 msgstr ""
 
+msgctxt "#30004"
+msgid "Rendering Mode"
+msgstr ""
+
 msgctxt "#30005"
 msgid "Auto Frameskip"
 msgstr "Automaattinen kuvaohitus"
@@ -49,8 +53,32 @@ msgctxt "#30007"
 msgid "Frameskip Type"
 msgstr "Kuvaohitustyyppi"
 
+msgctxt "#30008"
+msgid "Audio latency"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Internal Resolution (restart)"
+msgstr ""
+
 msgctxt "#30010"
 msgid "Confirmation Button"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Fast Memory (Speedhack)"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Block Transfer GPU"
+msgstr ""
+
+msgctxt "#30013"
+msgid "Texture Scaling Level"
+msgstr ""
+
+msgctxt "#30014"
+msgid "Texture Scaling Type"
 msgstr ""
 
 msgctxt "#30015"
@@ -69,8 +97,24 @@ msgctxt "#30018"
 msgid "Texture Replacement"
 msgstr ""
 
+msgctxt "#30019"
+msgid "GPU Hardware T&L"
+msgstr ""
+
+msgctxt "#30020"
+msgid "Vertex Cache (Speedhack)"
+msgstr ""
+
+msgctxt "#30021"
+msgid "Unsafe FuncReplacements"
+msgstr ""
+
 msgctxt "#30022"
 msgid "Internal Cheats Support"
+msgstr ""
+
+msgctxt "#30023"
+msgid "IO Timing Method"
 msgstr ""
 
 msgctxt "#30024"
@@ -611,6 +655,178 @@ msgstr ""
 
 msgctxt "#30158"
 msgid "Forced First Connect (Faster connect)"
+msgstr ""
+
+msgctxt "#30159"
+msgid "Interpreter"
+msgstr ""
+
+msgctxt "#30160"
+msgid "222MHz"
+msgstr ""
+
+msgctxt "#30161"
+msgid "266MHz"
+msgstr ""
+
+msgctxt "#30162"
+msgid "333MHz"
+msgstr ""
+
+msgctxt "#30163"
+msgid "366MHz"
+msgstr ""
+
+msgctxt "#30164"
+msgid "399MHz"
+msgstr ""
+
+msgctxt "#30165"
+msgid "432MHz"
+msgstr ""
+
+msgctxt "#30166"
+msgid "444MHz"
+msgstr ""
+
+msgctxt "#30167"
+msgid "466MHz"
+msgstr ""
+
+msgctxt "#30168"
+msgid "499MHz"
+msgstr ""
+
+msgctxt "#30169"
+msgid "532MHz"
+msgstr ""
+
+msgctxt "#30170"
+msgid "555MHz"
+msgstr ""
+
+msgctxt "#30171"
+msgid "566MHz"
+msgstr ""
+
+msgctxt "#30172"
+msgid "599MHz"
+msgstr ""
+
+msgctxt "#30173"
+msgid "632MHz"
+msgstr ""
+
+msgctxt "#30174"
+msgid "666MHz"
+msgstr ""
+
+msgctxt "#30175"
+msgid "777MHz"
+msgstr ""
+
+msgctxt "#30176"
+msgid "888MHz"
+msgstr ""
+
+msgctxt "#30177"
+msgid "999MHz"
+msgstr ""
+
+msgctxt "#30178"
+msgid "x2"
+msgstr ""
+
+msgctxt "#30179"
+msgid "x4"
+msgstr ""
+
+msgctxt "#30180"
+msgid "x8"
+msgstr ""
+
+msgctxt "#30181"
+msgid "1"
+msgstr ""
+
+msgctxt "#30182"
+msgid "2"
+msgstr ""
+
+msgctxt "#30183"
+msgid "3"
+msgstr ""
+
+msgctxt "#30184"
+msgid "4"
+msgstr ""
+
+msgctxt "#30185"
+msgid "5"
+msgstr ""
+
+msgctxt "#30186"
+msgid "6"
+msgstr ""
+
+msgctxt "#30187"
+msgid "7"
+msgstr ""
+
+msgctxt "#30188"
+msgid "8"
+msgstr ""
+
+msgctxt "#30189"
+msgid "2x"
+msgstr ""
+
+msgctxt "#30190"
+msgid "3x"
+msgstr ""
+
+msgctxt "#30191"
+msgid "4x"
+msgstr ""
+
+msgctxt "#30192"
+msgid "5x"
+msgstr ""
+
+msgctxt "#30193"
+msgid "8x"
+msgstr ""
+
+msgctxt "#30194"
+msgid "16x"
+msgstr ""
+
+msgctxt "#30195"
+msgid "Nearest"
+msgstr ""
+
+msgctxt "#30196"
+msgid "Linear"
+msgstr ""
+
+msgctxt "#30197"
+msgid "Auto max quality"
+msgstr ""
+
+msgctxt "#30198"
+msgid "Safe"
+msgstr ""
+
+msgctxt "#30199"
+msgid "Balanced"
+msgstr ""
+
+msgctxt "#30200"
+msgid "Aggressive"
+msgstr ""
+
+msgctxt "#30201"
+msgid "11"
 msgstr ""
 
 #~ msgctxt "#30003"
