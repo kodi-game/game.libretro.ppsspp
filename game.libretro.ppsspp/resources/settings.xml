@@ -10,7 +10,7 @@
 						<options>
 							<option label="30026">JIT</option>
 							<option label="30027">IR JIT</option>
-							<option>Interpreter</option>
+							<option label="30159">Interpreter</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -66,24 +66,24 @@
 					<constraints>
 						<options>
 							<option label="13106">disabled</option>
-							<option>222MHz</option>
-							<option>266MHz</option>
-							<option>333MHz</option>
-							<option>366MHz</option>
-							<option>399MHz</option>
-							<option>432MHz</option>
-							<option>444MHz</option>
-							<option>466MHz</option>
-							<option>499MHz</option>
-							<option>532MHz</option>
-							<option>555MHz</option>
-							<option>566MHz</option>
-							<option>599MHz</option>
-							<option>632MHz</option>
-							<option>666MHz</option>
-							<option>777MHz</option>
-							<option>888MHz</option>
-							<option>999MHz</option>
+							<option label="30160">222MHz</option>
+							<option label="30161">266MHz</option>
+							<option label="30162">333MHz</option>
+							<option label="30163">366MHz</option>
+							<option label="30164">399MHz</option>
+							<option label="30165">432MHz</option>
+							<option label="30166">444MHz</option>
+							<option label="30167">466MHz</option>
+							<option label="30168">499MHz</option>
+							<option label="30169">532MHz</option>
+							<option label="30170">555MHz</option>
+							<option label="30171">566MHz</option>
+							<option label="30172">599MHz</option>
+							<option label="30173">632MHz</option>
+							<option label="30174">666MHz</option>
+							<option label="30175">777MHz</option>
+							<option label="30176">888MHz</option>
+							<option label="30177">999MHz</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -207,9 +207,9 @@
 					<constraints>
 						<options>
 							<option label="13106">Disabled</option>
-							<option>x2</option>
-							<option>x4</option>
-							<option>x8</option>
+							<option label="30178">x2</option>
+							<option label="30179">x4</option>
+							<option label="30180">x8</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -231,14 +231,14 @@
 					<constraints>
 						<options>
 							<option label="13106">disabled</option>
-							<option>1</option>
-							<option>2</option>
-							<option>3</option>
-							<option>4</option>
-							<option>5</option>
-							<option>6</option>
-							<option>7</option>
-							<option>8</option>
+							<option label="30181">1</option>
+							<option label="30182">2</option>
+							<option label="30183">3</option>
+							<option label="30184">4</option>
+							<option label="30185">5</option>
+							<option label="30186">6</option>
+							<option label="30187">7</option>
+							<option label="30188">8</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -351,10 +351,10 @@
 					<constraints>
 						<options>
 							<option label="13106">disabled</option>
-							<option>2x</option>
-							<option>3x</option>
-							<option>4x</option>
-							<option>5x</option>
+							<option label="30189">2x</option>
+							<option label="30190">3x</option>
+							<option label="30191">4x</option>
+							<option label="30192">5x</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -389,10 +389,10 @@
 					<constraints>
 						<options>
 							<option label="13106">disabled</option>
-							<option>2x</option>
-							<option>4x</option>
-							<option>8x</option>
-							<option>16x</option>
+							<option label="30189">2x</option>
+							<option label="30191">4x</option>
+							<option label="30193">8x</option>
+							<option label="30194">16x</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -403,9 +403,9 @@
 					<constraints>
 						<options>
 							<option label="16316">Auto</option>
-							<option>Nearest</option>
-							<option>Linear</option>
-							<option>Auto max quality</option>
+							<option label="30195">Nearest</option>
+							<option label="30196">Linear</option>
+							<option label="30197">Auto max quality</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -593,9 +593,9 @@
 					<constraints>
 						<options>
 							<option label="13106">disabled</option>
-							<option>Safe</option>
-							<option>Balanced</option>
-							<option>Aggressive</option>
+							<option label="30198">Safe</option>
+							<option label="30199">Balanced</option>
+							<option label="30200">Aggressive</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -921,9 +921,9 @@
 					<constraints>
 						<options>
 							<option label="16316">Auto</option>
-							<option>1</option>
-							<option>6</option>
-							<option>11</option>
+							<option label="30181">1</option>
+							<option label="30186">6</option>
+							<option label="30201">11</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
