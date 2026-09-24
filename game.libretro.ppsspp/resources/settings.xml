@@ -289,12 +289,11 @@
 				</setting>
 				<setting id="ppsspp_inflight_frames" type="string" label="30072" help="30073">
 					<level>0</level>
-					<default>Up to 2</default>
+					<default>Up to 1</default>
 					<constraints>
 						<options>
 							<option>No buffer</option>
 							<option>Up to 1</option>
-							<option>Up to 2</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
