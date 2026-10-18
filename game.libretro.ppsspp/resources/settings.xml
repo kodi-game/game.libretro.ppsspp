@@ -298,39 +298,6 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="ppsspp_gpu_hardware_transform" type="string" label="30074">
-					<level>0</level>
-					<default>enabled</default>
-					<constraints>
-						<options>
-							<option label="13106">disabled</option>
-							<option label="305">enabled</option>
-						</options>
-					</constraints>
-					<control type="list" format="string" />
-				</setting>
-				<setting id="ppsspp_software_skinning" type="string" label="30075" help="30076">
-					<level>0</level>
-					<default>enabled</default>
-					<constraints>
-						<options>
-							<option label="13106">disabled</option>
-							<option label="305">enabled</option>
-						</options>
-					</constraints>
-					<control type="list" format="string" />
-				</setting>
-				<setting id="ppsspp_hardware_tesselation" type="string" label="30077" help="30078">
-					<level>0</level>
-					<default>disabled</default>
-					<constraints>
-						<options>
-							<option label="13106">disabled</option>
-							<option label="305">enabled</option>
-						</options>
-					</constraints>
-					<control type="list" format="string" />
-				</setting>
 				<setting id="ppsspp_texture_scaling_type" type="string" label="30079">
 					<level>0</level>
 					<default>xbrz</default>
@@ -559,29 +526,6 @@
 						<options>
 							<option label="13106">disabled</option>
 							<option label="305">enabled</option>
-						</options>
-					</constraints>
-					<control type="list" format="string" />
-				</setting>
-				<setting id="ppsspp_lazy_texture_caching" type="string" label="30118" help="30119">
-					<level>0</level>
-					<default>disabled</default>
-					<constraints>
-						<options>
-							<option label="13106">disabled</option>
-							<option label="305">enabled</option>
-						</options>
-					</constraints>
-					<control type="list" format="string" />
-				</setting>
-				<setting id="ppsspp_spline_quality" type="string" label="30120" help="30121">
-					<level>0</level>
-					<default>High</default>
-					<constraints>
-						<options>
-							<option>Low</option>
-							<option>Medium</option>
-							<option>High</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
