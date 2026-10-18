@@ -275,26 +275,6 @@ msgctxt "#30073"
 msgid "GL/Vulkan only, slower, less lag, restart."
 msgstr ""
 
-msgctxt "#30074"
-msgid "Hardware Transform"
-msgstr ""
-
-msgctxt "#30075"
-msgid "Software Skinning"
-msgstr ""
-
-msgctxt "#30076"
-msgid "Combine skinned model draws on the CPU, faster in most games."
-msgstr ""
-
-msgctxt "#30077"
-msgid "Hardware Tesselation"
-msgstr ""
-
-msgctxt "#30078"
-msgid "Uses hardware to make curves."
-msgstr ""
-
 msgctxt "#30079"
 msgid "Texture Upscale Type"
 msgstr ""
@@ -449,22 +429,6 @@ msgstr ""
 
 msgctxt "#30117"
 msgid "Some games require GPU readbacks, so be careful."
-msgstr ""
-
-msgctxt "#30118"
-msgid "Lazy Texture Caching (Speedup)"
-msgstr ""
-
-msgctxt "#30119"
-msgid "Faster, but can cause text problems in a few games."
-msgstr ""
-
-msgctxt "#30120"
-msgid "Spline/Bezier Curves Quality"
-msgstr ""
-
-msgctxt "#30121"
-msgid "Only used by some games, controls smoothness of curves."
 msgstr ""
 
 msgctxt "#30122"

@@ -273,26 +273,6 @@ msgctxt "#30073"
 msgid "GL/Vulkan only, slower, less lag, restart."
 msgstr "Только GL/Vulkan, медленнее, меньше задержек, перезапуск."
 
-msgctxt "#30074"
-msgid "Hardware Transform"
-msgstr "Аппаратное преобразование"
-
-msgctxt "#30075"
-msgid "Software Skinning"
-msgstr "Программная скелетная анимация"
-
-msgctxt "#30076"
-msgid "Combine skinned model draws on the CPU, faster in most games."
-msgstr "Объединять отрисовки моделей со скелетной анимацией на ЦП, быстрее в большинстве игр."
-
-msgctxt "#30077"
-msgid "Hardware Tesselation"
-msgstr "Аппаратная тесселяция"
-
-msgctxt "#30078"
-msgid "Uses hardware to make curves."
-msgstr "Использует оборудование для создания кривых."
-
 msgctxt "#30079"
 msgid "Texture Upscale Type"
 msgstr "Тип масштабирования текстур"
@@ -448,22 +428,6 @@ msgstr "Пропускать обратные чтения ГП"
 msgctxt "#30117"
 msgid "Some games require GPU readbacks, so be careful."
 msgstr "Некоторые игры требуют обратных чтений ГП, будьте осторожны."
-
-msgctxt "#30118"
-msgid "Lazy Texture Caching (Speedup)"
-msgstr "Ленивое кэширование текстур (ускорение)"
-
-msgctxt "#30119"
-msgid "Faster, but can cause text problems in a few games."
-msgstr "Быстрее, но может вызвать проблемы с текстом в нескольких играх."
-
-msgctxt "#30120"
-msgid "Spline/Bezier Curves Quality"
-msgstr "Качество сплайновых/кривых Безье"
-
-msgctxt "#30121"
-msgid "Only used by some games, controls smoothness of curves."
-msgstr "Используется только некоторыми играми, управляет плавностью кривых."
 
 msgctxt "#30122"
 msgid "Lower Resolution for Effects"
@@ -832,6 +796,42 @@ msgstr "11"
 #~ msgctxt "#30023"
 #~ msgid "IO Timing Method"
 #~ msgstr "Метод синхронизации ввода-вывода"
+
+#~ msgctxt "#30074"
+#~ msgid "Hardware Transform"
+#~ msgstr "Аппаратное преобразование"
+
+#~ msgctxt "#30075"
+#~ msgid "Software Skinning"
+#~ msgstr "Программная скелетная анимация"
+
+#~ msgctxt "#30076"
+#~ msgid "Combine skinned model draws on the CPU, faster in most games."
+#~ msgstr "Объединять отрисовки моделей со скелетной анимацией на ЦП, быстрее в большинстве игр."
+
+#~ msgctxt "#30077"
+#~ msgid "Hardware Tesselation"
+#~ msgstr "Аппаратная тесселяция"
+
+#~ msgctxt "#30078"
+#~ msgid "Uses hardware to make curves."
+#~ msgstr "Использует оборудование для создания кривых."
+
+#~ msgctxt "#30118"
+#~ msgid "Lazy Texture Caching (Speedup)"
+#~ msgstr "Ленивое кэширование текстур (ускорение)"
+
+#~ msgctxt "#30119"
+#~ msgid "Faster, but can cause text problems in a few games."
+#~ msgstr "Быстрее, но может вызвать проблемы с текстом в нескольких играх."
+
+#~ msgctxt "#30120"
+#~ msgid "Spline/Bezier Curves Quality"
+#~ msgstr "Качество сплайновых/кривых Безье"
+
+#~ msgctxt "#30121"
+#~ msgid "Only used by some games, controls smoothness of curves."
+#~ msgstr "Используется только некоторыми играми, управляет плавностью кривых."
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

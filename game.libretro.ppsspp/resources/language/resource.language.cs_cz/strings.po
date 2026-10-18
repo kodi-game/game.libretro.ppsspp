@@ -273,26 +273,6 @@ msgctxt "#30073"
 msgid "GL/Vulkan only, slower, less lag, restart."
 msgstr "Pouze GL/Vulkan; pomalejší, s menší prodlevou; vyžaduje restart."
 
-msgctxt "#30074"
-msgid "Hardware Transform"
-msgstr "Hardwarová transformace"
-
-msgctxt "#30075"
-msgid "Software Skinning"
-msgstr "Softwarový skinning"
-
-msgctxt "#30076"
-msgid "Combine skinned model draws on the CPU, faster in most games."
-msgstr "Slučuje vykreslování modelů se skinningem na CPU; ve většině her je rychlejší."
-
-msgctxt "#30077"
-msgid "Hardware Tesselation"
-msgstr "Hardwarová teselace"
-
-msgctxt "#30078"
-msgid "Uses hardware to make curves."
-msgstr "K vytváření křivek používá hardware."
-
 msgctxt "#30079"
 msgid "Texture Upscale Type"
 msgstr "Typ zvětšování textur"
@@ -448,22 +428,6 @@ msgstr "Přeskakovat zpětná čtení z GPU"
 msgctxt "#30117"
 msgid "Some games require GPU readbacks, so be careful."
 msgstr "Některé hry vyžadují zpětná čtení z GPU, proto buďte opatrní."
-
-msgctxt "#30118"
-msgid "Lazy Texture Caching (Speedup)"
-msgstr "Odložené ukládání textur do mezipaměti (zrychlení)"
-
-msgctxt "#30119"
-msgid "Faster, but can cause text problems in a few games."
-msgstr "Rychlejší, ale v několika hrách může způsobit problémy s textem."
-
-msgctxt "#30120"
-msgid "Spline/Bezier Curves Quality"
-msgstr "Kvalita spline/Bézierových křivek"
-
-msgctxt "#30121"
-msgid "Only used by some games, controls smoothness of curves."
-msgstr "Používá se pouze v některých hrách a určuje hladkost křivek."
 
 msgctxt "#30122"
 msgid "Lower Resolution for Effects"
@@ -832,3 +796,39 @@ msgstr "11"
 #~ msgctxt "#30023"
 #~ msgid "IO Timing Method"
 #~ msgstr "Metoda časování I/O"
+
+#~ msgctxt "#30074"
+#~ msgid "Hardware Transform"
+#~ msgstr "Hardwarová transformace"
+
+#~ msgctxt "#30075"
+#~ msgid "Software Skinning"
+#~ msgstr "Softwarový skinning"
+
+#~ msgctxt "#30076"
+#~ msgid "Combine skinned model draws on the CPU, faster in most games."
+#~ msgstr "Slučuje vykreslování modelů se skinningem na CPU; ve většině her je rychlejší."
+
+#~ msgctxt "#30077"
+#~ msgid "Hardware Tesselation"
+#~ msgstr "Hardwarová teselace"
+
+#~ msgctxt "#30078"
+#~ msgid "Uses hardware to make curves."
+#~ msgstr "K vytváření křivek používá hardware."
+
+#~ msgctxt "#30118"
+#~ msgid "Lazy Texture Caching (Speedup)"
+#~ msgstr "Odložené ukládání textur do mezipaměti (zrychlení)"
+
+#~ msgctxt "#30119"
+#~ msgid "Faster, but can cause text problems in a few games."
+#~ msgstr "Rychlejší, ale v několika hrách může způsobit problémy s textem."
+
+#~ msgctxt "#30120"
+#~ msgid "Spline/Bezier Curves Quality"
+#~ msgstr "Kvalita spline/Bézierových křivek"
+
+#~ msgctxt "#30121"
+#~ msgid "Only used by some games, controls smoothness of curves."
+#~ msgstr "Používá se pouze v některých hrách a určuje hladkost křivek."
