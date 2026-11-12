@@ -154,13 +154,13 @@ msgctxt "#30031"
 msgid "I/O Timing Method"
 msgstr ""
 
-msgctxt "#30032"
-msgid "Force Real Clock Sync"
-msgstr ""
+#~ msgctxt "#30032"
+#~ msgid "Force Real Clock Sync"
+#~ msgstr ""
 
-msgctxt "#30033"
-msgid "Slower, less lag."
-msgstr ""
+#~ msgctxt "#30033"
+#~ msgid "Slower, less lag."
+#~ msgstr ""
 
 msgctxt "#30034"
 msgid "Memory Stick Inserted"
@@ -832,4 +832,56 @@ msgstr ""
 
 msgctxt "#30201"
 msgid "11"
+msgstr ""
+
+msgctxt "#30202"
+msgid "Low-Latency CPU Timing"
+msgstr ""
+
+msgctxt "#30203"
+msgid "Runs emulation in step with real time instead of a frame at a time, for less audio, input and network delay. Uses a little more CPU, and goes back to normal timing when the device is too busy. Previously called \"Force Real Clock Sync\"."
+msgstr ""
+
+msgctxt "#30204"
+msgid "Lens Flare Occlusion"
+msgstr ""
+
+msgctxt "#30205"
+msgid "Hides lens flares behind objects, in the games that do that by reading the depth buffer. 'Low' is faster and less exact. 'Default' picks per device."
+msgstr ""
+
+msgctxt "#30206"
+msgid "Default"
+msgstr ""
+
+msgctxt "#30207"
+msgid "Auto"
+msgstr ""
+
+msgctxt "#30208"
+msgid "Low"
+msgstr ""
+
+msgctxt "#30209"
+msgid "Off"
+msgstr ""
+
+msgctxt "#30210"
+msgid "Always on"
+msgstr ""
+
+msgctxt "#30211"
+msgid "VR Mode (OpenGL/GLES)"
+msgstr ""
+
+msgctxt "#30212"
+msgid "Stereoscopic presents a 3D screen. Immersive uses headset tracking and per-eye fields of view. Requires a frontend supporting stereo views and OpenGL 3 or OpenGL ES 3. Game compatibility varies."
+msgstr ""
+
+msgctxt "#30213"
+msgid "Stereoscopic"
+msgstr ""
+
+msgctxt "#30214"
+msgid "Immersive"
 msgstr ""

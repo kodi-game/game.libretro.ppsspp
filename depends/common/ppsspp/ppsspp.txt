@@ -1,1 +1,1 @@
-ppsspp https://github.com/hrydgard/ppsspp/archive/b4386554795949491a26e51b7d74082bb9b2470f.tar.gz
+ppsspp https://github.com/hrydgard/ppsspp/archive/1a6d0c1ff0b878d4dd82886dcc819fa9f5741c1f.tar.gz

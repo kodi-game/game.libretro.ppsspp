@@ -49,7 +49,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="ppsspp_force_lag_sync" type="string" label="30032" help="30033">
+				<setting id="ppsspp_force_lag_sync" type="string" label="30202" help="30203">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -294,6 +294,21 @@
 						<options>
 							<option>No buffer</option>
 							<option>Up to 1</option>
+							<option>Up to 2</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="ppsspp_depth_raster" type="string" label="30204" help="30205">
+					<level>0</level>
+					<default>default</default>
+					<constraints>
+						<options>
+							<option label="30206">default</option>
+							<option label="30207">auto</option>
+							<option label="30208">low</option>
+							<option label="30209">off</option>
+							<option label="30210">always_on</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -394,6 +409,18 @@
 						<options>
 							<option label="13106">disabled</option>
 							<option label="305">enabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="ppsspp_vr_mode" type="string" label="30211" help="30212">
+					<level>0</level>
+					<default>Off</default>
+					<constraints>
+						<options>
+							<option label="351">Off</option>
+							<option label="30213">Stereoscopic</option>
+							<option label="30214">Immersive</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />

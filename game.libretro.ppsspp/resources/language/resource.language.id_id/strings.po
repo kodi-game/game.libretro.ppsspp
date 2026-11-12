@@ -105,14 +105,6 @@ msgctxt "#30031"
 msgid "I/O Timing Method"
 msgstr ""
 
-msgctxt "#30032"
-msgid "Force Real Clock Sync"
-msgstr ""
-
-msgctxt "#30033"
-msgid "Slower, less lag."
-msgstr ""
-
 msgctxt "#30034"
 msgid "Memory Stick Inserted"
 msgstr ""
@@ -748,6 +740,14 @@ msgstr ""
 msgctxt "#30201"
 msgid "11"
 msgstr ""
+
+#~ msgctxt "#30032"
+#~ msgid "Force Real Clock Sync"
+#~ msgstr ""
+
+#~ msgctxt "#30033"
+#~ msgid "Slower, less lag."
+#~ msgstr ""
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
