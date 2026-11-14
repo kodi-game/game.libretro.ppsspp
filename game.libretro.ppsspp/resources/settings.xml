@@ -413,7 +413,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="ppsspp_vr_mode" type="string" label="30211" help="30212">
+				<setting id="ppsspp_vr_mode" type="string" label="30215" help="30216">
 					<level>0</level>
 					<default>Off</default>
 					<constraints>

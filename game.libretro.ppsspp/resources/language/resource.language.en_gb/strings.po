@@ -870,13 +870,13 @@ msgctxt "#30210"
 msgid "Always on"
 msgstr ""
 
-msgctxt "#30211"
-msgid "VR Mode (OpenGL/GLES)"
-msgstr ""
+#~ msgctxt "#30211"
+#~ msgid "VR Mode (OpenGL/GLES)"
+#~ msgstr ""
 
-msgctxt "#30212"
-msgid "Stereoscopic presents a 3D screen. Immersive uses headset tracking and per-eye fields of view. Requires a frontend supporting stereo views and OpenGL 3 or OpenGL ES 3. Game compatibility varies."
-msgstr ""
+#~ msgctxt "#30212"
+#~ msgid "Stereoscopic presents a 3D screen. Immersive uses headset tracking and per-eye fields of view. Requires a frontend supporting stereo views and OpenGL 3 or OpenGL ES 3. Game compatibility varies."
+#~ msgstr ""
 
 msgctxt "#30213"
 msgid "Stereoscopic"
@@ -884,4 +884,12 @@ msgstr ""
 
 msgctxt "#30214"
 msgid "Immersive"
+msgstr ""
+
+msgctxt "#30215"
+msgid "VR Mode (Vulkan)"
+msgstr ""
+
+msgctxt "#30216"
+msgid "Stereoscopic presents a 3D screen. Immersive uses headset tracking and per-eye fields of view. Requires a frontend supporting stereo views, and Vulkan with multiview. Game compatibility varies."
 msgstr ""
